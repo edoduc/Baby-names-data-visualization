@@ -16,4 +16,4 @@ Is there a regional effect in the data? Are some names more popular in some regi
 
 Are there gender effects in the data? Does popularity of names given to both sexes evolve consistently? (Note: this data set treats sex as binary; this is a simplification that carries into this assignment but does not generally hold.)
 
-### `The repository is composed of one folder per visualization. In each folder, you will find the preliminary sketch of the visualization and one notebook per implementation (initial and refined). You only have too run the notebooks to display the visualization and play with it.`
+### `The repository is composed of one folder per visualization. In each folder, you will find the preliminary sketch of the visualization and one notebook per implementation (initial and refined). You only have too run the notebooks to display the visualizations and play with it. ENJOY !!`
