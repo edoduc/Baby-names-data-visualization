@@ -1,5 +1,12 @@
 # Baby-names-data-visualization
+
+# Groupe G: Léo BARBERIS, Anaële BAUDANT-COJAN, Florent BRIAND, Edouard DUCLOY, Pety Ialimita RAKOTONIAINA
+Master Spécialisé Intelligence Artificielle - Telecom Paris (2023-2024)
+Visualisation Class (IGR204) - Professor: James EAGAN
+
 A data visualization project that aims at highlighting relevant information from a dataset of baby names in France from 1900 to 2020.
+
+**INSTRUCTIONS**
 
 In this mini-project, we will be working with a data set of baby names in France. It contains the list of all baby names registered in France, year by year, from 1900 through 2020. There are two data sets: one aggregated to the national level, and another with data by department. Your goal is to create 3 different visualizations around these data, each focussed on answering different kinds of questions about the data:
 

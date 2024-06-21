@@ -1,0 +1,43 @@
+Visualisation 1 : 
+-----------------
+the idea is to display selected names on the graph, to visualise the number of births from 1900 to 2020. A menu on top helps to select the name, a dropdown menu enables to chose easily the name. The clear button resets the graph. The year of start can be modified with the time slider cursor.
+
+The lines display each name's popularity year by year. We can see which names are consistently popular or unpopular, which names have sudden spikes, and overall trends.
+
+Discussion : 
+- graph could be easier to read if turned by 90°
+- help user to chose names accoridng to certain criterias (gender, popalarity, etc.)
+
+Visualisation 2 : 
+-----------------
+The visualization is divided in two parts:
+- On the left, a map shows geographical popularity of a given name during a given period. The user can select a gender and a name through dropdown menus, and a period (decade) through a time slider with cursor. The map will then display the number of births by department, and the user can use his/her mouse cursor to hover the map and display more info, such as the exact number of births or the popularity rank of the name, about a specific department.
+- On the right, two bar charts display the top 10 names (male and female) in a given department during a given decade. The user select the department through a dropdown menu and the decade with the time slider.
+Furthermore, an animation (play once or loop) is possible with the time slider, and allows to obsere the time evolution during the overall period (1900-2020).
+This visualization answers all the question about the regional effect. Indeed, the map allows to assess a name popularity across the whole country, and the bar charts allow to identify the most popular names in each region.
+
+
+Discussion :
+- display the selected region (on the right) with highlighted borders on the map
+- add title with decade on the map
+- add title on bar charts with region
+- add the selected name on the right bar charts (even if name is not in the top 10)
+- create more interactivity (click on map to select region and click on chart to select name)
+
+Visualisation3 :
+----------------
+We show the evolution of top 10 names by gender in a given period. The user selects a period, by default graph is set to the last decade from 2010 to 2020, and the top 10 names are displayed. The visualisation shows the evolution of most popular names in this given period (line plot chart) over the years, from 1900 to 2020 and the map bellow, displays the most popular name for the chosen period.
+
+the play button enables to visualise the evolution over time, decade by decade.
+
+this visualisation enables to see top names given, that have considerably varied over time, with a recent revival of popular namesin the early 1900s (Marie, Louise and Jeanne for girls and Jean, Louis and Paul for boys). It also shows that names evolve consistantly among boys and girls over time, with a wider range of name given in recent years (top names given in recent yaers are proportionately less given thant top names 100 years ago).
+
+Discussion :
+- need to emphasize what highlights the trends: 
+       * standardize the colors over time for most popular names
+       * keep in the background (light gray) top 3 names : Marie Jeanne & Louise for girls, and Jean, Louis and Paul for boys
+- finalize the interactivity
+- enable to display in number of births or in percentage of births of the year
+- add a filter by department, to see the evolution of top names in a specific region
+- add a filter on names given to both boys and girls
+
