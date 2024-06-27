@@ -35,9 +35,15 @@ this visualisation enables to see top names given, that have considerably varied
 Discussion :
 - need to emphasize what highlights the trends: 
        * standardize the colors over time for most popular names
-       * keep in the background (light gray) top 3 names : Marie Jeanne & Louise for girls, and Jean, Louis and Paul for boys
-- finalize the interactivity
-- enable to display in number of births or in percentage of births of the year
+       * (done) keep in the background (light gray) top 3 names : Marie Jeanne & Louise for girls, and Jean, Louis and Paul for boys
+       * (done) add a grey zone indicating maximum given names for each year
+- (done) enable to display in number of births or in percentage of births of the year
+- modify tooltip, so that it displays not just on beginning of year, but on all year (01/01/year versus all year width)
+- (done) add maximum names at their peak year 
+- add names in color for top 3-5 names of the period (at their peak year)
+- (done) change date format on x-axis
+- (done) finalize the interactivity
 - add a filter by department, to see the evolution of top names in a specific region
 - add a filter on names given to both boys and girls
+
 
