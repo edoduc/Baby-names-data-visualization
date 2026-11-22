@@ -1,9 +1,5 @@
 # Baby-names-data-visualization
 
-# Groupe G: Léo BARBERIS, Anaële BAUDANT-COJAN, Florent BRIAND, Edouard DUCLOY, Pety Ialimita RAKOTONIAINA
-Master Spécialisé Intelligence Artificielle - Telecom Paris (2023-2024)
-Visualisation Class (IGR204) - Professor: James EAGAN
-
 A data visualization project that aims at highlighting relevant information from a dataset of baby names in France from 1900 to 2020.
 
 **INSTRUCTIONS**
@@ -14,15 +10,18 @@ In this mini-project, we will be working with a data set of baby names in France
 
 How do baby names evolve over time? Are there names that have consistently remained popular or unpopular? Are there some that have were suddenly or briefly popular or unpopular? Are there trends in time?
 
-![Theme_1 demo](videos_gif/theme 1 - time FINAL.gif)
+![Theme_1 demo](videos_gif/theme_1_time_evolution.gif)
 
 **- Visualization 2:**
 
 Is there a regional effect in the data? Are some names more popular in some regions? Are popular names generally popular across the whole country?
 
+![Theme_2 demo](videos_gif/theme_2_region.gif)
 
 **- Visualization 3:**
 
 Are there gender effects in the data? Does popularity of names given to both sexes evolve consistently? (Note: this data set treats sex as binary; this is a simplification that carries into this assignment but does not generally hold.)
+
+![Theme_3 demo](videos_gif/theme_3_gender.gif)
 
 ### `The repository is composed of one folder per visualization. In each folder, you will find the preliminary sketch of the visualization and one notebook per implementation (initial and refined). You only have too run the notebooks to display the visualizations and play with it. ENJOY !!`
