@@ -14,6 +14,8 @@ In this mini-project, we will be working with a data set of baby names in France
 
 How do baby names evolve over time? Are there names that have consistently remained popular or unpopular? Are there some that have were suddenly or briefly popular or unpopular? Are there trends in time?
 
+![Theme_1 demo](videos_gif/theme 1 - time FINAL.gif)
+
 **- Visualization 2:**
 
 Is there a regional effect in the data? Are some names more popular in some regions? Are popular names generally popular across the whole country?
